@@ -7,4 +7,4 @@ How was your experience [edit]
 - Mention in points
 
 ## Profile
-Link of profile readme [repository link](link) [edit]
+Link of profile readme [repository link](https://github.com/prateek18801/web-development-tasks/blob/main/readme.md) [edit]
